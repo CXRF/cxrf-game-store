@@ -1,1 +1,7 @@
+body {
+  background: #0f0f0f; /* Fondo oscuro */
+  color: white;         /* Letras blancas */
+  font-family: Arial, sans-serif; /* Tipo de letra */
+  padding: 40px;        /* Espacio alrededor */
+}
 
